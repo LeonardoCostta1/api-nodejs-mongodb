@@ -5,8 +5,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 **Backend**    
 * Node js    
 * Express  
-* Mongoose
-* Body Parser    
+* Mongoose  
+* Body Parser   
+* Bcrypt  
+* Json Web Token  
 * Cors    
 * Nodemon   
 
