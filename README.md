@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 **Banco de dados mongodb com MongoDB Atlas**
 
-https://cloud.mongodb.com/v
+https://cloud.mongodb.com
 
 ## Como Utilizar
 
