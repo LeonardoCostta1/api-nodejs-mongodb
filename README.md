@@ -4,13 +4,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 **Backend**    
 * Node js    
-* Express    
+* Express  
+* Mongoose
 * Body Parser    
 * Cors    
 * Nodemon   
 
-## Como Utilizar
+**Banco de dados mongodb com MongoDB Atlas**
 
+https://cloud.mongodb.com/v
+
+## Como Utilizar
 
 ### **BACKEND**
 
